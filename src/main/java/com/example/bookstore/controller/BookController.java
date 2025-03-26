@@ -24,7 +24,13 @@ public class BookController {
     public List<Book> getAllBooks() {
         return bookService.getAllBooks();
     }
-
+    
+    @GetMapping("/books/{id}")
+    public ResponseEntity<Book> getBookById(@PathVariable Long id) {
+        Book book = bookService.getBookById(id);
+        return ResponseEntity.ok(book);
+    }
+    
     @PutMapping("/{id}")
     public ResponseEntity<Book> updateBook(@PathVariable Long id, @RequestBody Book book) {
         Book updatedBook = bookService.updateBook(id, book);

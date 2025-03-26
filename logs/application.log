@@ -1,0 +1,71 @@
+2025-03-23T19:53:59.748+05:30  INFO 29180 --- [main] c.e.b.controller.BookControllerTest      : Starting BookControllerTest using Java 21.0.3 with PID 29180 (started by chira in C:\Users\chira\SpringBoot\BookStore)
+2025-03-23T19:53:59.759+05:30 DEBUG 29180 --- [main] c.e.b.controller.BookControllerTest      : Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-23T19:53:59.760+05:30  INFO 29180 --- [main] c.e.b.controller.BookControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T19:54:02.965+05:30  INFO 29180 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-03-23T19:54:02.971+05:30  INFO 29180 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-03-23T19:54:02.974+05:30  INFO 29180 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2025-03-23T19:54:03.030+05:30  INFO 29180 --- [main] c.e.b.controller.BookControllerTest      : Started BookControllerTest in 3.908 seconds (process running for 6.43)
+2025-03-23T19:55:15.987+05:30  INFO 31420 --- [main] c.e.b.controller.BookControllerTest      : Starting BookControllerTest using Java 21.0.3 with PID 31420 (started by chira in C:\Users\chira\SpringBoot\BookStore)
+2025-03-23T19:55:15.989+05:30 DEBUG 31420 --- [main] c.e.b.controller.BookControllerTest      : Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-23T19:55:15.990+05:30  INFO 31420 --- [main] c.e.b.controller.BookControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T19:55:18.868+05:30  INFO 31420 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-03-23T19:55:18.869+05:30  INFO 31420 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-03-23T19:55:18.872+05:30  INFO 31420 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2025-03-23T19:55:18.929+05:30  INFO 31420 --- [main] c.e.b.controller.BookControllerTest      : Started BookControllerTest in 3.5 seconds (process running for 5.069)
+2025-03-23T19:57:27.227+05:30  INFO 14364 --- [main] c.e.b.controller.BookControllerTest      : Starting BookControllerTest using Java 21.0.3 with PID 14364 (started by chira in C:\Users\chira\SpringBoot\BookStore)
+2025-03-23T19:57:27.229+05:30 DEBUG 14364 --- [main] c.e.b.controller.BookControllerTest      : Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-23T19:57:27.230+05:30  INFO 14364 --- [main] c.e.b.controller.BookControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T19:57:29.834+05:30  INFO 14364 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-03-23T19:57:29.835+05:30  INFO 14364 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-03-23T19:57:29.837+05:30  INFO 14364 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2025-03-23T19:57:29.886+05:30  INFO 14364 --- [main] c.e.b.controller.BookControllerTest      : Started BookControllerTest in 3.221 seconds (process running for 4.585)
+2025-03-23T19:58:04.285+05:30  INFO 25296 --- [main] c.e.bookstore.BookStoreApplication       : Starting BookStoreApplication using Java 21.0.3 with PID 25296 (C:\Users\chira\SpringBoot\BookStore\target\classes started by chira in C:\Users\chira\SpringBoot\BookStore)
+2025-03-23T19:58:04.295+05:30 DEBUG 25296 --- [main] c.e.bookstore.BookStoreApplication       : Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-23T19:58:04.299+05:30  INFO 25296 --- [main] c.e.bookstore.BookStoreApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T19:58:06.045+05:30  INFO 25296 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-03-23T19:58:06.129+05:30  INFO 25296 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 72 ms. Found 1 JPA repository interface.
+2025-03-23T19:58:07.454+05:30  INFO 25296 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-03-23T19:58:07.483+05:30  INFO 25296 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-23T19:58:07.484+05:30  INFO 25296 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-23T19:58:07.572+05:30  INFO 25296 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-23T19:58:07.573+05:30  INFO 25296 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3184 ms
+2025-03-23T19:58:08.088+05:30  INFO 25296 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-03-23T19:58:08.196+05:30  INFO 25296 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.8.Final
+2025-03-23T19:58:08.249+05:30  INFO 25296 --- [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-03-23T19:58:08.656+05:30  INFO 25296 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-03-23T19:58:08.709+05:30  INFO 25296 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-03-23T19:58:09.168+05:30  INFO 25296 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@39ac8c0c
+2025-03-23T19:58:09.171+05:30  INFO 25296 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-03-23T19:58:09.250+05:30  WARN 25296 --- [main] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-03-23T19:58:09.274+05:30  INFO 25296 --- [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.4.4
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-03-23T19:58:10.597+05:30  INFO 25296 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-03-23T19:58:10.691+05:30  INFO 25296 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-03-23T19:58:11.195+05:30  WARN 25296 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-23T19:58:12.501+05:30  INFO 25296 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 3 endpoints beneath base path '/actuator'
+2025-03-23T19:58:12.655+05:30  INFO 25296 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-03-23T19:58:12.672+05:30  INFO 25296 --- [main] c.e.bookstore.BookStoreApplication       : Started BookStoreApplication in 9.091 seconds (process running for 9.964)
+2025-03-23T19:58:13.527+05:30  INFO 25296 --- [RMI TCP Connection(4)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-23T19:58:13.528+05:30  INFO 25296 --- [RMI TCP Connection(4)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-03-23T19:58:13.530+05:30  INFO 25296 --- [RMI TCP Connection(4)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-03-23T19:58:29.958+05:30  INFO 25296 --- [http-nio-8080-exec-2] c.example.bookstore.service.BookService  : Updating book with ID: 100
+2025-03-23T19:58:30.180+05:30 ERROR 25296 --- [http-nio-8080-exec-2] c.example.bookstore.service.BookService  : Book with ID 100 not found for update
+2025-03-23T19:59:53.179+05:30  INFO 31416 --- [main] c.e.b.controller.BookControllerTest      : Starting BookControllerTest using Java 21.0.3 with PID 31416 (started by chira in C:\Users\chira\SpringBoot\BookStore)
+2025-03-23T19:59:53.180+05:30 DEBUG 31416 --- [main] c.e.b.controller.BookControllerTest      : Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-23T19:59:53.181+05:30  INFO 31416 --- [main] c.e.b.controller.BookControllerTest      : No active profile set, falling back to 1 default profile: "default"
+2025-03-23T19:59:55.999+05:30  INFO 31416 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2025-03-23T19:59:56.001+05:30  INFO 31416 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2025-03-23T19:59:56.004+05:30  INFO 31416 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2025-03-23T19:59:56.064+05:30  INFO 31416 --- [main] c.e.b.controller.BookControllerTest      : Started BookControllerTest in 3.409 seconds (process running for 4.914)
+2025-03-23T20:02:16.958+05:30  INFO 25296 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-03-23T20:02:16.964+05:30  INFO 25296 --- [RMI TCP Connection(9)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-03-23T20:02:16.971+05:30  INFO 25296 --- [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-03-23T20:02:16.977+05:30  INFO 25296 --- [RMI TCP Connection(9)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-03-23T20:02:16.981+05:30  INFO 25296 --- [RMI TCP Connection(9)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-03-23T20:02:16.991+05:30  INFO 25296 --- [RMI TCP Connection(9)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
